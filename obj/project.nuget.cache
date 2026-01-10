@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/1rCmZNZLI=",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\src\\DbOperationsWithEfCore\\DbOperationsWithEfCoreApp\\DbOperationsWithEfCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gauai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\gauai\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
